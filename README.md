@@ -1,4 +1,4 @@
-# yocto_tcp_server
+# yocto_socket_server
 for Intel AI Project
 
 ```bash
