@@ -1,5 +1,5 @@
 # yocto_tcp_server
-custom yocto
+for Intel AI Project
 
 ```bash
 source poky/oe-init-build-env build
